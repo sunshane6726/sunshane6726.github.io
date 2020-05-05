@@ -9,8 +9,7 @@
 [![Clean Blog Preview](https://github.com/sunshane6726/likelion-DongUk/blob/branch_1/LikelionHomework_1/LikelionHomeWork_1_1/img/likelionHomeWork.PNG)]
 # 실제로 이용한 무료템플릿 
 (https://blackrockdigital.github.io/startbootstrap-clean-blog/)
-
-
+### sunshane6726.github.io
 ## Status
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-clean-blog/master/LICENSE)
