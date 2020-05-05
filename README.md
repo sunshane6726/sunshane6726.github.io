@@ -8,7 +8,7 @@
 
 ## Preview
 
-[![Clean Blog Preview](https://github.com/sunshane6726/likelion-DongUk/blob/branch_1/LikelionHomework_1/LikelionHomeWork_1_1/img/likelionHomeWork.PNG)]
+![Clean Blog Preview](https://github.com/sunshane6726/likelion-DongUk/blob/branch_1/LikelionHomework_1/LikelionHomeWork_1_1/img/likelionHomeWork.PNG)
 # 실제로 이용한 무료템플릿 
 (https://blackrockdigital.github.io/startbootstrap-clean-blog/)
 
