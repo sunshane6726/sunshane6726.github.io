@@ -1,6 +1,8 @@
 
 # [Start Bootstrap - Clean Blog](https://startbootstrap.com/template-overviews/clean-blog/)
 ## 부트스트렙 무료템플릿을 이용하여 만들었습니다. 
+## 사이트이름 
+### sunshane6726.github.io
 ## 마크다운 에디터를 이용해서 만들어야 합니다.
 [Clean Blog](http://startbootstrap.com/template-overviews/clean-blog/) is a stylish, responsive blog theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features a blog homepage, about page, contact page, and an example post page along with a working PHP contact form.
 
@@ -9,7 +11,7 @@
 [![Clean Blog Preview](https://github.com/sunshane6726/likelion-DongUk/blob/branch_1/LikelionHomework_1/LikelionHomeWork_1_1/img/likelionHomeWork.PNG)]
 # 실제로 이용한 무료템플릿 
 (https://blackrockdigital.github.io/startbootstrap-clean-blog/)
-### sunshane6726.github.io
+
 ## Status
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-clean-blog/master/LICENSE)
